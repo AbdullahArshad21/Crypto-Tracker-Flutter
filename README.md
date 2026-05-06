@@ -12,3 +12,4 @@
 - Open the emulator using android studio.
 - Use this code “flutter run” to run the application in emulator.
 
+###TRACK THE RECENT CRYPTO MARKET AND GIVE THE NEWS ACCORDING TO THIS
